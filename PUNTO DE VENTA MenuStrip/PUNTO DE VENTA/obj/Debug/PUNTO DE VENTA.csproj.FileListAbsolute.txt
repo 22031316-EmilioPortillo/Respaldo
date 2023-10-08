@@ -1,0 +1,25 @@
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.exe.config
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.exe
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.pdb
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Form1.resources
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Properties.Resources.resources
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.GenerateResource.cache
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.exe
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.pdb
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Form2.resources
+C:\Users\Emilio\Desktop\Aplicaciones de Escritorio\PUNTO DE VENTA\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.NewUser.resources
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Form2.resources
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Properties.Resources.resources
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.GenerateResource.cache
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.exe
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.pdb
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.exe.config
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.exe
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\bin\Debug\PUNTO DE VENTA.pdb
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO_DE_VENTA.Login.resources
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\bin\Debug\MaterialSkin.dll
+C:\Users\Emilio\Desktop\Respaldo_APE\PUNTO DE VENTA Interfaces Distintas Backup\PUNTO DE VENTA\obj\Debug\PUNTO DE VENTA.csproj.CopyComplete
