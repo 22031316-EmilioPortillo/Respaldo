@@ -1,0 +1,66 @@
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Login.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MaterialSkin.dll
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Menu.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Registro.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ActualizarUser.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Productos.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.manifest
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.application
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.manifest
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.application
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ProductoVenta.resources
+C:\Users\Emilio\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Venta.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.manifest
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.application
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\bin\Debug\MaterialSkin.dll
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ActualizarUser.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Login.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Menu.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Productos.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ProductoVenta.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Registro.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Venta.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.manifest
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.application
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\porti\Desktop\Emilio_Punto_De_Venta\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.manifest
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.application
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MaterialSkin.dll
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ActualizarUser.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Login.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Menu.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Productos.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.ProductoVenta.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Registro.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Forms.Venta.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.manifest
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.application
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\porti\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
